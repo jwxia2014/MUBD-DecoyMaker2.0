@@ -24,8 +24,8 @@ Documentation
 Installation
 -----------------------------------
 
-We recommend users to run the Python GUI application on windows, as all the dependencies have been included.  
-The MUBD-DecoyMaker2.0.py can also be run on other platforms, however, Python2.7 (64bits) and RDKit2013.03.2 (64bits) are required to install pior to its use. 
+For users, we recommend them to run the Python GUI application on windows, as all the dependencies have been included.  
+For developers, they may implement the MUBD-DecoyMaker2.0.py on other platforms. It should be noted that Python2.7 (64bits) and RDKit2013.03.2 (64bits) are required to install pior to its use. 
 
 
 License
