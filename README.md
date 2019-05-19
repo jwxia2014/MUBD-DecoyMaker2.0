@@ -8,12 +8,12 @@ MUBD-DecoyMaker is an easy-to-use computational tool to generate maximal unbiase
 
 Availability & Implementation
 -----------------------------------
-* The source code for the Python GUI application is available at https://github.com/jwxia2014/MUBD-DecoyMaker2.0
+* The source code for the Python GUI application is available at https://github.com/jwxia2014/MUBD-DecoyMaker2.0/MUBD-DecoyMaker2.0.exe
 
 Documentation
 -----------------------------------
 
-* Manual: https://github.com/jwxia2014/MUBD-DecoyMaker2.0/manual.pdf
+* The manual for the Python GUI application is available at: https://github.com/jwxia2014/MUBD-DecoyMaker2.0/manual.pdf
 
 
 Installation
