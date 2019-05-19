@@ -1,24 +1,19 @@
-# MUBD
+# MUBD-DecoyMaker 2.0
 
 Introduction
 -----------------------------------
 
-CaFE (Calculation of Free Energy) is a VMD plugin for binding affinity
-prediction using end-point free energy methods.
+MUBD-DecoyMaker is a Python GUI applications to generate maximal unbiased benchmarking sets for virtual screening.
 
 
 Availability & Implementation
 -----------------------------------
-
-You can use CaFE on all major platforms.
-
-* Source code: https://github.com/HuiLiuCode/CaFE_Plugin
-
+The windows-based GUI and Python Source code are available at https://github.com/jwxia2014/MUBD-DecoyMaker2.0
 
 Documentation
 -----------------------------------
 
-* Manual: https://github.com/HuiLiuCode/CaFE_Plugin/tree/master/doc/manual.pdf
+* Manual: https://github.com/jwxia2014/MUBD-DecoyMaker2.0/tree/master/doc/manual.pdf
 
 
 Installation
