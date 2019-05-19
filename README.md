@@ -3,7 +3,7 @@
 Introduction
 -----------------------------------
 
-MUBD-DecoyMaker is a Python GUI applications to generate maximal unbiased benchmarking sets for virtual screening.
+MUBD-DecoyMaker is a Python GUI application to generate maximal unbiased benchmarking sets for virtual screening.
 
 
 Availability & Implementation
