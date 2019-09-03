@@ -1,4 +1,4 @@
-# MUBD-DecoyMaker 2.0 (Python-based)
+# MUBD-DecoyMaker 2.0
 
 Introduction
 -----------------------------------
