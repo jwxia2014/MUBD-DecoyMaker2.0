@@ -11,8 +11,7 @@ Availability & Implementation
 
 * The source code for the Python GUI application is available at https://github.com/jwxia2014/MUBD-DecoyMaker2.0/MUBD-DecoyMaker2.0.py
 * Due to the large size of the Python GUI application, it has been uploaded to the cloud drives and is accessible from there：
-  1) https://www.dropbox.com/sh/9c8ajswrbbppodo/AACgqVPEkNcEWgDxfE3E9eCva?dl=0 (for users outside China)
-  2) https://pan.baidu.com/s/19QWAPse_wx8LHVTaLFoMFQ  (password:arb6, for users in China)
+  
 
 
 Documentation
