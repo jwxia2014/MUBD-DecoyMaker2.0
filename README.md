@@ -1,4 +1,4 @@
-# MUBD-DecoyMaker 2.0
+# MUBD-DecoyMaker 2.0 (Python-based)
 
 Introduction
 -----------------------------------
@@ -46,3 +46,4 @@ Important Applications in Drug Discovery:
 1. Dou, X.; Jiang, L.; Wang, Y.; Jin, H.; Liu, Z.; Zhang, L., Discovery of New Gsk-3beta Inhibitors through Structure-Based Virtual Screening. Bioorg. Med. Chem. Lett., 2018, 28, 160-166.
 2. Kong, Y.; Bender, A.; Yan, A., Identification of Novel Aurora Kinase a (Aurka) Inhibitors Via Hierarchical Ligand-Based Virtual Screening. J. Chem. Inf. Model., 2018, 58, 36-47.
 3. Wang Y.; Dou X.; Jiang L.; Jin H.; Zhang L.; Zhang L.; Liu Z., Discovery of novel glycogen synthase kinase-3α inhibitors: Structure-based virtual screening, preliminary SAR and biological evaluation for treatment of acute myeloid leukemia. Eur. J. Med. Chem., 2019,171, 221-234.
+4. Dou, X.; Huang, H.; Li, Y.; Jiang, L.; Wang, Y.; Jin, H.; Jiao, N.; Zhang, L.; Zhang, L.; Liu, Z., Multistage Screening Reveals 3-Substituted Indolin-2-One Derivatives as Novel and Isoform-Selective C-Jun N-Terminal Kinase 3 (Jnk3) Inhibitors: Implications to Drug Discovery for Potential Treatment of Neurodegenerative Diseases. J. Med. Chem., 2019, 62, 6645-6664.
