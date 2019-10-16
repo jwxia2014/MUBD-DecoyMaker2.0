@@ -1,17 +1,16 @@
-# MUBD-DecoyMaker 2.0
+# MUBD-DecoyMaker2.0
 
 Introduction
 -----------------------------------
 
-MUBD-DecoyMaker is an easy-to-use computational tool to generate maximal unbiased benchmarking sets for virtual screening.
-Unlike MUBD-DecoyMaker1.0, version 2.0 is developed with Python. Its GUI application can be run on windows and has no dependency. 
+MUBD-DecoyMaker is a Python GUI application to generate maximal unbiased benchmarking sets data sets for virtual drug screening. It can be run on Windows-based machine and has no dependency. 
 
 Availability & Implementation
 -----------------------------------
 
-* The source code for the Python GUI application is available at https://github.com/jwxia2014/MUBD-DecoyMaker2.0/MUBD-DecoyMaker2.0.py
+* The source codes for the Python GUI application is available unpon request.
 * Due to the large size of the Python GUI application, it has been uploaded to the cloud drives and is accessible from there：
-  
+  https://www.dropbox.com/sh/9c8ajswrbbppodo/AACgqVPEkNcEWgDxfE3E9eCva?dl=0
 
 
 Documentation
@@ -23,8 +22,8 @@ Documentation
 Installation
 -----------------------------------
 
-For users, we recommend them to run the Python GUI application on windows, as all the dependencies have been included.  
-For developers, they may implement the MUBD-DecoyMaker2.0.py on other platforms. It should be noted that Python2.7 (64bits) and RDKit2013.03.2 (64bits) are required to install prior to its use. 
+For users, we recommend them to run the Python GUI application on Windows-based machine, as all the dependencies have been included.  
+For developers, they may implement the MUBD-DecoyMaker2.0.py on other platforms. It should be noted that Python2.7 (64bits) and RDKit2013.03.2 (64bits) are required to install prior to the use of the source codes (available upon request). 
 
 
 License
