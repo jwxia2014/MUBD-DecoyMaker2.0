@@ -8,8 +8,7 @@ MUBD-DecoyMaker is a Python GUI application to generate maximal unbiased benchma
 Availability & Implementation
 -----------------------------------
 
-* The source codes for the Python GUI application is available unpon request.
-* Due to the large size of the Python GUI application, it has been uploaded to the cloud drives and is accessible from there：
+* Due to the large size, the Python GUI application has been uploaded to the cloud drives and is accessible from there：
   https://www.dropbox.com/sh/9c8ajswrbbppodo/AACgqVPEkNcEWgDxfE3E9eCva?dl=0
 
 
@@ -23,7 +22,7 @@ Installation
 -----------------------------------
 
 For users, we recommend them to run the Python GUI application on Windows-based machine, as all the dependencies have been included.  
-For developers, they may implement the MUBD-DecoyMaker2.0.py on other platforms. It should be noted that Python2.7 (64bits) and RDKit2013.03.2 (64bits) are required to install prior to the use of the source codes (available upon request). 
+For developers, they may send emails to jie.william.xia@hotmail.com or x.simon.wang@gmail.com to request the source codes. The source codes can be implemented on any platform. However, it should be noted that Python2.7 (64bits) and RDKit2013.03.2 (64bits) are required to install before the execution of the source codes. 
 
 
 License
