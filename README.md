@@ -15,7 +15,7 @@ Availability & Implementation
 Documentation
 -----------------------------------
 
-* The manual for the Python GUI application is available at: https://github.com/jwxia2014/MUBD-DecoyMaker2.0/manual.pdf
+* The manual for the Python GUI application is available at: https://github.com/jwxia2014/MUBD-DecoyMaker2.0
 
 
 Installation
