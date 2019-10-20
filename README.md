@@ -15,7 +15,7 @@ Availability & Implementation
 Documentation
 -----------------------------------
 
-* The manual for the Python GUI application and the files for the case study are available at this website. 
+* The manual for the Python GUI application and the files for the case study are available at this website, i.e.  Case-ACM4-Agonists.zip
 
 
 Installation
