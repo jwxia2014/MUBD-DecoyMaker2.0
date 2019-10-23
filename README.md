@@ -9,7 +9,8 @@ Availability & Implementation
 -----------------------------------
 
 * Due to the large size, the Python GUI application has been uploaded to the cloud drives and is accessible from there：
-  https://www.dropbox.com/sh/9c8ajswrbbppodo/AACgqVPEkNcEWgDxfE3E9eCva?dl=0
+  https://www.dropbox.com/s/x94fa20pze3aaed/MUBD-DecoyMaker2.0.exe?dl=0 (Outside China) or
+  https://pan.baidu.com/s/15ZkrsXEHTNVv5XakW22PIA  (China)
 
 
 Documentation
