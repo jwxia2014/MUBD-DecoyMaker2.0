@@ -29,7 +29,7 @@ Installation
 License
 -----------------------------------
 
-MUBD-DecoyMaker2.0 is freely available under the GNU General Public License. See LICENSE
+* MUBD-DecoyMaker2.0 is freely available under the GNU General Public License. See LICENSE
 for more details.
 
 References
