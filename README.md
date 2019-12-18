@@ -23,7 +23,7 @@ Installation
 -----------------------------------
 
 * For users, we recommend them to run the Python GUI application on Windows-based machine, as all the dependencies have been included.  
-* For developers, they may send emails to jie.william.xia@hotmail.com or x.simon.wang@gmail.com to request the source codes. The source codes can be implemented on any platform. However, it should be noted that Python2.7 (64bits) and RDKit2013.03.2 (64bits) are required to install before the execution of the source codes. 
+* For developers, they may send emails to Dr. Jie Xia (jie.william.xia@hotmail.com) or Dr. Simon Wang (x.simon.wang@gmail.com) to request the source codes. The source codes can be implemented on any platform. However, it should be noted that Python2.7 (64bits) and RDKit2013.03.2 (64bits) are required to install before the execution of the source codes. 
 
 
 License
