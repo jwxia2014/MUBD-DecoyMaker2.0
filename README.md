@@ -23,7 +23,7 @@ Installation
 -----------------------------------
 
 * For users, we recommend them to run the Python GUI application on Windows-based machines, as all the dependencies have been included. Please note we used the machine with Intel Core(TM) i7-7700 CPU@3.60GHz and RAM of 16 GB for testing the tool. The computation time for the test case of ACM Agonists is 1882 seconds. 
-* For developers who are interest to collaborate on further development, they may write to Dr. Jie Xia (jie.william.xia@hotmail.com) or Dr. Simon Wang (x.simon.wang@gmail.com) to request the source code.  
+* For developers who are interested to collaborate on further development, they may write to Dr. Jie Xia (jie.william.xia@hotmail.com) or Dr. Simon Wang (x.simon.wang@gmail.com) to request the source code.  
 
 
 References
