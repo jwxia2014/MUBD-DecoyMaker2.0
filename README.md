@@ -24,10 +24,10 @@ Installation
 
 * For users, we recommend them to run the Python GUI application on Windows-based machines, as all the dependencies have been included.  
 * Please note we used the machine with Intel Core(TM) i7-7700 CPU@3.60GHz and RAM of 16 GB for testing the tool on 17 data sets. The computation time is listed below for your informtation. 
-*   5HT1F-AGO,48116 seconds
-*   5HT1F-ANTA,2355 seconds
-*   DRD5-AGO,2048s seconds
-*   DRD5-ANTA,4457 seconds
+** 5HT1F-AGO,48116 seconds
+* 5HT1F-ANTA,2355 seconds
+* DRD5-AGO,2048s seconds
+* DRD5-ANTA,4457 seconds
 * HRH4-AGO,4542 seconds
 * HRH4-ANTA,8581 seconds
 * ACM4-AGO, 1882 seconds
