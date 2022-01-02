@@ -43,6 +43,8 @@ Important Applications in Targeted Drug Discovery:
 1. Dou, X.; Huang, H.; Li, Y.; Jiang, L.; Wang, Y.; Jin, H.; Jiao, N.; Zhang, L.; Zhang, L.; Liu, Z., Multistage Screening Reveals 3-Substituted Indolin-2-One Derivatives as Novel and Isoform-Selective C-Jun N-Terminal Kinase 3 (Jnk3) Inhibitors: Implications to Drug Discovery for Potential Treatment of Neurodegenerative Diseases. J. Med. Chem., 2019, 62, 6645-6664. 
 https://doi.org/10.1021/acs.jmedchem.9b00537
 2. Wang Y.; Dou X.; Jiang L.; Jin H.; Zhang L.; Zhang L.; Liu Z., Discovery of novel glycogen synthase kinase-3α inhibitors: Structure-based virtual screening, preliminary SAR and biological evaluation for treatment of acute myeloid leukemia. Eur. J. Med. Chem., 2019,171, 221-234.
-3.
-4. Dou, X.; Jiang, L.; Wang, Y.; Jin, H.; Liu, Z.; Zhang, L., Discovery of New Gsk-3beta Inhibitors through Structure-Based Virtual Screening. Bioorg. Med. Chem. Lett., 2018, 28, 160-166.
-5. Kong, Y.; Bender, A.; Yan, A., Identification of Novel Aurora Kinase a (Aurka) Inhibitors Via Hierarchical Ligand-Based Virtual Screening. J. Chem. Inf. Model., 2018, 58, 36-47.
+https://doi.org/10.1016/j.ejmech.2019.03.039
+3. Dou, X.; Jiang, L.; Wang, Y.; Jin, H.; Liu, Z.; Zhang, L., Discovery of New Gsk-3beta Inhibitors through Structure-Based Virtual Screening. Bioorg. Med. Chem. Lett., 2018, 28, 160-166.
+https://doi.org/10.1016/j.bmcl.2017.11.036
+4. Kong, Y.; Bender, A.; Yan, A., Identification of Novel Aurora Kinase a (Aurka) Inhibitors Via Hierarchical Ligand-Based Virtual Screening. J. Chem. Inf. Model., 2018, 58, 36-47.
+ https://doi.org/10.1021/acs.jcim.7b00300
