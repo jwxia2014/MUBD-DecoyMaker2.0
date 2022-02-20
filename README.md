@@ -48,3 +48,5 @@ https://doi.org/10.1016/j.ejmech.2019.03.039
 https://doi.org/10.1016/j.bmcl.2017.11.036
 4. Kong, Y.; Bender, A.; Yan, A., Identification of Novel Aurora Kinase a (Aurka) Inhibitors Via Hierarchical Ligand-Based Virtual Screening. J. Chem. Inf. Model., 2018, 58, 36-47.
  https://doi.org/10.1021/acs.jcim.7b00300
+ 5. Huo, D.; Wang, S.; Kong, Y.; Qin, Z.; Yan, A., Discovery of Novel Epidermal Growth Factor Receptor (EGFR) Inhibitors Using Computational Approaches. J. Chem. Inf. Model., 2021.
+ https://doi.org/10.1021/acs.jcim.1c00884
