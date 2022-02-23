@@ -38,7 +38,7 @@ https://pubs.acs.org/doi/10.1021/ci5005515  (MUBD-HDACs)
 4. Xia, J.; Reid, T.E.; Wu, S.; Zhang, L.; Wang, X.S., Maximal Unbiased Benchmarking Data Sets for Human Chemokine Receptors and Comparative Analysis. J. Chem. Inf. Model., 2018, 58 (5): 1104-1120. 
 https://pubs.acs.org/doi/10.1021/acs.jcim.8b00004 (MUBD-hCRs)
 
-Important Applications in Targeted Drug Discovery:
+Selected Applications of MUBD:
 
 1. Dou, X.; Huang, H.; Li, Y.; Jiang, L.; Wang, Y.; Jin, H.; Jiao, N.; Zhang, L.; Zhang, L.; Liu, Z., Multistage Screening Reveals 3-Substituted Indolin-2-One Derivatives as Novel and Isoform-Selective C-Jun N-Terminal Kinase 3 (Jnk3) Inhibitors: Implications to Drug Discovery for Potential Treatment of Neurodegenerative Diseases. J. Med. Chem., 2019, 62, 6645-6664. 
 https://doi.org/10.1021/acs.jmedchem.9b00537
@@ -50,3 +50,4 @@ https://doi.org/10.1016/j.bmcl.2017.11.036
  https://doi.org/10.1021/acs.jcim.7b00300
  5. Huo, D.; Wang, S.; Kong, Y.; Qin, Z.; Yan, A., Discovery of Novel Epidermal Growth Factor Receptor (EGFR) Inhibitors Using Computational Approaches. J. Chem. Inf. Model., 2021.
  https://doi.org/10.1021/acs.jcim.1c00884
+ 6. Alexander Y. Sedykh, Ruchir R. Shah, Nicole C. Kleinstreuer, Scott S. Auerbach, Vijay K. Gombar. Saagar–A New, Extensible Set of Molecular Substructures for QSAR/QSPR and Read-Across Predictions. Chemical Research in Toxicology 2021, 34 (2) , 634-640. https://doi.org/10.1021/acs.chemrestox.0c00464
