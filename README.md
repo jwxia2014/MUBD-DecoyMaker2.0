@@ -39,21 +39,3 @@ https://pubs.acs.org/doi/10.1021/ci5005515  (MUBD-HDACs)
 https://pubs.acs.org/doi/10.1021/acs.jcim.8b00004 (MUBD-hCRs)
 
 Selected Applications of MUBD:
-
-1. Dou, X.; Huang, H.; Li, Y.; Jiang, L.; Wang, Y.; Jin, H.; Jiao, N.; Zhang, L.; Zhang, L.; Liu, Z., Multistage Screening Reveals 3-Substituted Indolin-2-One Derivatives as Novel and Isoform-Selective C-Jun N-Terminal Kinase 3 (Jnk3) Inhibitors: Implications to Drug Discovery for Potential Treatment of Neurodegenerative Diseases. J. Med. Chem., 2019, 62, 6645-6664. 
-https://doi.org/10.1021/acs.jmedchem.9b00537
-2. Wang Y.; Dou X.; Jiang L.; Jin H.; Zhang L.; Zhang L.; Liu Z., Discovery of novel glycogen synthase kinase-3α inhibitors: Structure-based virtual screening, preliminary SAR and biological evaluation for treatment of acute myeloid leukemia. Eur. J. Med. Chem., 2019,171, 221-234.
-https://doi.org/10.1016/j.ejmech.2019.03.039
-3. Dou, X.; Jiang, L.; Wang, Y.; Jin, H.; Liu, Z.; Zhang, L., Discovery of New Gsk-3beta Inhibitors through Structure-Based Virtual Screening. Bioorg. Med. Chem. Lett., 2018, 28, 160-166.
-https://doi.org/10.1016/j.bmcl.2017.11.036
-4. Kong, Y.; Bender, A.; Yan, A., Identification of Novel Aurora Kinase a (Aurka) Inhibitors Via Hierarchical Ligand-Based Virtual Screening. J. Chem. Inf. Model., 2018, 58, 36-47.
- https://doi.org/10.1021/acs.jcim.7b00300
- 5. Huo, D.; Wang, S.; Kong, Y.; Qin, Z.; Yan, A., Discovery of Novel Epidermal Growth Factor Receptor (EGFR) Inhibitors Using Computational Approaches. J. Chem. Inf. Model., 2021.
- https://doi.org/10.1021/acs.jcim.1c00884
- 6. Sedykh, A. Y.; Shah, R. R.; Kleinstreuer, N. C.; Auerbach, S. S.; Gombar, V. K., Saagar–A New, Extensible Set of Molecular Substructures for QSAR/QSPR and Read-Across Predictions. Chem. Res. Toxicol. 2021, 34 (2), 634-640. 
- https://doi.org/10.1021/acs.chemrestox.0c00464
- 7. Zhou, H.; Cao, H.; Skolnick, J., FINDSITEcomb2.0: A New Approach for Virtual Ligand Screening of Proteins and Virtual Target Screening of Biomolecules. J. Chem. Inf. Model. 2018, 58 (11), 2343-2354. 
- https://doi.org/10.1021/acs.jcim.8b00309
- 8. Pei, F., Jin, H., Zhou, X., Xia, J., Sun, L., Liu, Z. and Zhang, L. (2015), Enrichment Assessment of Multiple Virtual Screening Strategies for Toll-Like Receptor 8 Agonists Based on a Maximal Unbiased Benchmarking Data Set. Chem Biol Drug Des, 86: 1226-1241. 
- https://doi.org/10.1111/cbdd.12590
-9. Huang, Yx., Zhao, J., Song, Qh. et al. Virtual screening and experimental validation of novel histone deacetylase inhibitors. BMC Pharmacol Toxicol 17, 32 (2016). https://doi.org/10.1186/s40360-016-0075-8
