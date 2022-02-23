@@ -39,3 +39,11 @@ https://pubs.acs.org/doi/10.1021/ci5005515  (MUBD-HDACs)
 https://pubs.acs.org/doi/10.1021/acs.jcim.8b00004 (MUBD-hCRs)
 
 Selected Applications of MUBD:
+ Zheng, L.; Bao, Y.; Sun, L.; Yu, C.; Sun, Y.; Song, Z.; Wang, G.; Huang, Y.; Li, Y., An Improved Protocol for the Virtual Screening Discovery of Novel Histone Deacetylase Inhibitors. Chem. Pharm. Bull. 2019, 67 (10), 1076-1081. https://doi.org/10.1248/cpb.c19-00321
+Kong, Y.; Bender, A.; Yan, A., Identification of Novel Aurora Kinase a (Aurka) Inhibitors Via Hierarchical Ligand-Based Virtual Screening. J. Chem. Inf. Model., 2018, 58, 36-47.  https://doi.org/10.1021/acs.jcim.7b00300
+Zhou, H.; Cao, H.; Skolnick, J., FINDSITEcomb2.0: A New Approach for Virtual Ligand Screening of Proteins and Virtual Target Screening of Biomolecules. J. Chem. Inf. Model. 2018, 58 (11), 2343-2354. https://doi.org/10.1021/acs.jcim.8b00309
+Dou, X.; Jiang, L.; Wang, Y.; Jin, H.; Liu, Z.; Zhang, L., Discovery of New Gsk-3beta Inhibitors through Structure-Based Virtual Screening. Bioorg. Med. Chem. Lett., 2018, 28, 160-166. https://doi.org/10.1016/j.bmcl.2017.11.036
+Huang, Yx., Zhao, J., Song, Qh. et al. Virtual screening and experimental validation of novel histone deacetylase inhibitors. BMC Pharmacol Toxicol 17, 32 (2016). https://doi.org/10.1186/s40360-016-0075-8
+Pei, F., Jin, H., Zhou, X., Xia, J., Sun, L., Liu, Z. and Zhang, L. (2015), Enrichment Assessment of Multiple Virtual Screening Strategies for Toll-Like Receptor 8 Agonists Based on a Maximal Unbiased Benchmarking Data Set. Chem Biol Drug Des, 86: 1226-1241.  https://doi.org/10.1111/cbdd.12590
+
+
