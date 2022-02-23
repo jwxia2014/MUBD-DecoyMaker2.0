@@ -52,5 +52,7 @@ https://doi.org/10.1016/j.bmcl.2017.11.036
  https://doi.org/10.1021/acs.jcim.1c00884
  6. Sedykh, A. Y.; Shah, R. R.; Kleinstreuer, N. C.; Auerbach, S. S.; Gombar, V. K., Saagar–A New, Extensible Set of Molecular Substructures for QSAR/QSPR and Read-Across Predictions. Chem. Res. Toxicol. 2021, 34 (2), 634-640. 
  https://doi.org/10.1021/acs.chemrestox.0c00464
- 8. Zhou, H.; Cao, H.; Skolnick, J., FINDSITEcomb2.0: A New Approach for Virtual Ligand Screening of Proteins and Virtual Target Screening of Biomolecules. J. Chem. Inf. Model. 2018, 58 (11), 2343-2354. 
+ 7. Zhou, H.; Cao, H.; Skolnick, J., FINDSITEcomb2.0: A New Approach for Virtual Ligand Screening of Proteins and Virtual Target Screening of Biomolecules. J. Chem. Inf. Model. 2018, 58 (11), 2343-2354. 
  https://doi.org/10.1021/acs.jcim.8b00309
+ 8. Pei, F., Jin, H., Zhou, X., Xia, J., Sun, L., Liu, Z. and Zhang, L. (2015), Enrichment Assessment of Multiple Virtual Screening Strategies for Toll-Like Receptor 8 Agonists Based on a Maximal Unbiased Benchmarking Data Set. Chem Biol Drug Des, 86: 1226-1241. 
+ https://doi.org/10.1111/cbdd.12590
