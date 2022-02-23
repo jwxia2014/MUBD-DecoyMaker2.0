@@ -50,7 +50,7 @@ https://doi.org/10.1016/j.bmcl.2017.11.036
  https://doi.org/10.1021/acs.jcim.7b00300
  5. Huo, D.; Wang, S.; Kong, Y.; Qin, Z.; Yan, A., Discovery of Novel Epidermal Growth Factor Receptor (EGFR) Inhibitors Using Computational Approaches. J. Chem. Inf. Model., 2021.
  https://doi.org/10.1021/acs.jcim.1c00884
- 6. Alexander Y. Sedykh, Ruchir R. Shah, Nicole C. Kleinstreuer, Scott S. Auerbach, Vijay K. Gombar. Saagar–A New, Extensible Set of Molecular Substructures for QSAR/QSPR and Read-Across Predictions. Chemical Research in Toxicology 2021, 34 (2) , 634-640. 
+ 6. Sedykh, A. Y.; Shah, R. R.; Kleinstreuer, N. C.; Auerbach, S. S.; Gombar, V. K., Saagar–A New, Extensible Set of Molecular Substructures for QSAR/QSPR and Read-Across Predictions. Chem. Res. Toxicol. 2021, 34 (2), 634-640. 
  https://doi.org/10.1021/acs.chemrestox.0c00464
- 8. Hongyi Zhou, Hongnan Cao, Jeffrey Skolnick. FINDSITEcomb2.0: A New Approach for Virtual Ligand Screening of Proteins and Virtual Target Screening of Biomolecules. Journal of Chemical Information and Modeling 2018, 58 (11) , 2343-2354. 
+ 8. Zhou, H.; Cao, H.; Skolnick, J., FINDSITEcomb2.0: A New Approach for Virtual Ligand Screening of Proteins and Virtual Target Screening of Biomolecules. J. Chem. Inf. Model. 2018, 58 (11), 2343-2354. 
  https://doi.org/10.1021/acs.jcim.8b00309
