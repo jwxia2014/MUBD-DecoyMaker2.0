@@ -39,6 +39,7 @@ https://pubs.acs.org/doi/10.1021/ci5005515  (MUBD-HDACs)
 https://pubs.acs.org/doi/10.1021/acs.jcim.8b00004 (MUBD-hCRs)
 
 Selected Applications of MUBD:
+Dou, X.; Sun, X.; Huang, H.; Jiang, L.; Jin, Z.; Liu, Y.; Zou, Y.; Li, Z.; Zhu, G.; Jin, H.; Jiao, N.; Zhang, L.; Liu, Z.; Zhang, L., Discovery of novel ataxia telangiectasia mutated (ATM) kinase modulators: Computational simulation, biological evaluation and cancer combinational chemotherapy study. Eur. J. Med. Chem. 2022, 114196. https://doi.org/10.1016/j.ejmech.2022.114196
 1.	Huo, D.; Wang, S.; Kong, Y.; Qin, Z.; Yan, A., Discovery of Novel Epidermal Growth Factor Receptor (EGFR) Inhibitors Using Computational Approaches. J. Chem. Inf. Model., 2021. 
 https://doi.org/10.1021/acs.jcim.1c00884
 2.	Sedykh, A. Y.; Shah, R. R.; Kleinstreuer, N. C.; Auerbach, S. S.; Gombar, V. K., Saagar–A New, Extensible Set of Molecular Substructures for QSAR/QSPR and Read-Across Predictions. Chem. Res. Toxicol. 2021, 34 (2), 634-640.
