@@ -41,7 +41,7 @@ https://pubs.acs.org/doi/10.1021/acs.jcim.8b00004 (MUBD-hCRs)
 Selected Applications of MUBD:
 1. Li, N.; Yin, L.; Chen, X.; Shang, J.; Liang, M.; Gao, L.; Qiang, G.; Xia, J.; Du, G.; Yang, X. Combination of Docking-Based and Pharmacophore-Based Virtual Screening Identifies Novel Agonists That Target the Urotensin Receptor. Molecules 2022, 27, 8692. https://doi.org/10.3390/molecules27248692
 2. Dou, X.; Sun, X.; Huang, H.; Jiang, L.; Jin, Z.; Liu, Y.; Zou, Y.; Li, Z.; Zhu, G.; Jin, H.; Jiao, N.; Zhang, L.; Liu, Z.; Zhang, L., Discovery of novel ataxia telangiectasia mutated (ATM) kinase modulators: Computational simulation, biological evaluation and cancer combinational chemotherapy study. Eur. J. Med. Chem. 2022, 114196. https://doi.org/10.1016/j.ejmech.2022.114196
-3.	Huo, D.; Wang, S.; Kong, Y.; Qin, Z.; Yan, A., Discovery of Novel Epidermal Growth Factor Receptor (EGFR) Inhibitors Using Computational Approaches. J. Chem. Inf. Model., 2021. 
+3.	Huo, D.; Wang, S.; Kong, Y.; Qin, Z.; Yan, A., Discovery of Novel Epidermal Growth Factor Receptor (EGFR) Inhibitors Using Computational Approaches. J. Chem. Inf. Model. 2022, 62, 21, 5149–5164 
 https://doi.org/10.1021/acs.jcim.1c00884
 4.	Sedykh, A. Y.; Shah, R. R.; Kleinstreuer, N. C.; Auerbach, S. S.; Gombar, V. K., Saagar–A New, Extensible Set of Molecular Substructures for QSAR/QSPR and Read-Across Predictions. Chem. Res. Toxicol. 2021, 34 (2), 634-640.
 https://doi.org/10.1021/acs.chemrestox.0c00464
