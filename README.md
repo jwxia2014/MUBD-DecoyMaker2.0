@@ -37,8 +37,8 @@ https://pubs.acs.org/doi/10.1021/ci500062f  (Algorithm and MUBD-GPCRs/ULS/UDS)
 https://pubs.acs.org/doi/10.1021/ci5005515  (MUBD-HDACs)
 4. Xia, J.; Reid, T.E.; Wu, S.; Zhang, L.; Wang, X.S., Maximal Unbiased Benchmarking Data Sets for Human Chemokine Receptors and Comparative Analysis. J. Chem. Inf. Model., 2018, 58 (5): 1104-1120. 
 https://pubs.acs.org/doi/10.1021/acs.jcim.8b00004 (MUBD-hCRs)
-5. Xia, J.; Tilahun, E. L.; Reid, T. E.; Zhang, L.; Wang, X. S., Benchmarking methods and data sets for ligand enrichment assessment in virtual screening. Methods 2015, 71, 146-57. (PseudoCode)
-https://doi.org/10.1016/j.ymeth.2014.11.015
+5. Xia, J.; Tilahun, E. L.; Reid, T. E.; Zhang, L.; Wang, X. S., Benchmarking methods and data sets for ligand enrichment assessment in virtual screening. Methods 2015, 71, 146-57. 
+https://doi.org/10.1016/j.ymeth.2014.11.015 (PseudoCode)
 
 
 Selected Applications of MUBD:
