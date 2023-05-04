@@ -4,6 +4,8 @@ Introduction
 -----------------------------------
 
 MUBD-DecoyMaker2.0, an updated version of MUBD-DECOYMAKER, is a Python GUI application (standalone version) to generate maximal unbiased benchmarking sets data sets for virtual drug screening. It can be run on Windows-based machine and has no dependency. 
+![image](https://user-images.githubusercontent.com/50791273/236105008-ee25f8ff-08fa-44de-bcdf-26cc5d0f1fae.png)
+
 
 Availability & Implementation
 -----------------------------------
@@ -39,6 +41,7 @@ https://pubs.acs.org/doi/10.1021/ci5005515  (MUBD-HDACs)
 https://pubs.acs.org/doi/10.1021/acs.jcim.8b00004 (MUBD-hCRs)
 5. Xia, J.; Tilahun, E. L.; Reid, T. E.; Zhang, L.; Wang, X. S., Benchmarking methods and data sets for ligand enrichment assessment in virtual screening. Methods 2015, 71, 146-57. 
 https://doi.org/10.1016/j.ymeth.2014.11.015 (PseudoCode)
+
 
 
 Selected Applications of MUBD:
@@ -79,6 +82,7 @@ https://doi.org/10.1016/j.bmcl.2017.11.036
 https://doi.org/10.1186/s40360-016-0075-8
 19.	Pei, F., Jin, H., Zhou, X., Xia, J., Sun, L., Liu, Z. and Zhang, L. (2015), Enrichment Assessment of Multiple Virtual Screening Strategies for Toll-Like Receptor 8 Agonists Based on a Maximal Unbiased Benchmarking Data Set. Chem Biol Drug Des, 86: 1226-1241.
 https://doi.org/10.1111/cbdd.12590
+
 
 
 
