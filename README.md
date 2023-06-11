@@ -1,4 +1,4 @@
-# MUBD-DecoyMaker2.0
+# MUBD-DecoyMaker2.0 and MUBD
 
 Introduction
 -----------------------------------
