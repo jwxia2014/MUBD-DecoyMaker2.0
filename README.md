@@ -88,9 +88,9 @@ Contact
 Any question or feedback is welcome. Please send emails to jie.william.xia@hotmail.com (Dr. Jie Xia).
 
 Jie Xia, Ph.D.
-Associate Professor，Junior PI	
-Institute of Materia Medica, Chinese Academy of Medical Sciences & Peking Union Medical College	
-Beijing, China	
+Associate Professor，Junior PI
+Institute of Materia Medica, Chinese Academy of Medical Sciences & Peking Union Medical College
+Beijing, China
 
 ORCID: https://orcid.org/0000-0002-9567-3763
 
