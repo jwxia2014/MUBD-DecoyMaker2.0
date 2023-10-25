@@ -1,4 +1,4 @@
-# MUBD-DecoyMaker2.0 and MUBD
+# MUBD-DecoyMaker2.0 and MUBD methodology
 
 Introduction
 -----------------------------------
@@ -42,11 +42,12 @@ https://pubs.acs.org/doi/10.1021/acs.jcim.8b00004 (MUBD-hCRs)
 5. Xia, J.; Tilahun, E. L.; Reid, T. E.; Zhang, L.; Wang, X. S., Benchmarking methods and data sets for ligand enrichment assessment in virtual screening. Methods 2015, 71, 146-57.   https://doi.org/10.1016/j.ymeth.2014.11.015 (PseudoCode)
 
 
-Selected Applications of MUBD
+Selected Applications of MUBD methodology
 -----------------------------------
-1. Huo, D., Sun, Z., Wang, M., & Yan, A. Ligand and structure based hierarchical virtual screening cascade for finding novel epidermal growth factor receptor inhibitors. Chemical Biology & Drug Design,2023, 00, 1–17. https://doi.org/10.1111/cbdd.14375
-2. Pang, X.; Zhao, Y.; Li, G.; Liu, J.; Yan, A., SAR and QASR study on Cyclin dependent kinase 4 inhibitors using machine learning methods. Digital Discovery 2023. 	https://doi.org/10.1039/D2DD00143H
-3. Djokovic, N.; Ruzic, D.; Rahnasto-Rilla, M.; Srdic-Rajic, T.; Lahtela-Kakkonen, M.; Nikolic, K., Expanding the Accessible Chemical Space of SIRT2 Inhibitors through Exploration of Binding Pocket Dynamics. J. Chem. Inf. Model. 2022, 62 (10), 2571-2585. https://doi.org/10.1021/acs.jcim.2c00241
+1. Shen, Wf., Tang, Hw., Li, Jb. et al. Multimodal data fusion for supervised learning-based identification of USP7 inhibitors: a systematic comparison. J Cheminform, 2023, 15, 5. https://doi.org/10.1186/s13321-022-00675-8
+2. Huo, D., Sun, Z., Wang, M., & Yan, A. Ligand and structure based hierarchical virtual screening cascade for finding novel epidermal growth factor receptor inhibitors. Chemical Biology & Drug Design,2023, 00, 1–17. https://doi.org/10.1111/cbdd.14375
+3. Pang, X.; Zhao, Y.; Li, G.; Liu, J.; Yan, A., SAR and QASR study on Cyclin dependent kinase 4 inhibitors using machine learning methods. Digital Discovery 2023. 	https://doi.org/10.1039/D2DD00143H
+4. Djokovic, N.; Ruzic, D.; Rahnasto-Rilla, M.; Srdic-Rajic, T.; Lahtela-Kakkonen, M.; Nikolic, K., Expanding the Accessible Chemical Space of SIRT2 Inhibitors through Exploration of Binding Pocket Dynamics. J. Chem. Inf. Model. 2022, 62 (10), 2571-2585. https://doi.org/10.1021/acs.jcim.2c00241
 2. Li, N.; Yin, L.; Chen, X.; Shang, J.; Liang, M.; Gao, L.; Qiang, G.; Xia, J.; Du, G.; Yang, X. Combination of Docking-Based and Pharmacophore-Based Virtual Screening Identifies Novel Agonists That Target the Urotensin Receptor. Molecules 2022, 27, 8692. https://doi.org/10.3390/molecules27248692
 3. Dou, X.; Sun, X.; Huang, H.; Jiang, L.; Jin, Z.; Liu, Y.; Zou, Y.; Li, Z.; Zhu, G.; Jin, H.; Jiao, N.; Zhang, L.; Liu, Z.; Zhang, L., Discovery of novel ataxia telangiectasia mutated (ATM) kinase modulators: Computational simulation, biological evaluation and cancer combinational chemotherapy study. Eur. J. Med. Chem. 2022, 114196. https://doi.org/10.1016/j.ejmech.2022.114196
 4.	Huo, D.; Wang, S.; Kong, Y.; Qin, Z.; Yan, A., Discovery of Novel Epidermal Growth Factor Receptor (EGFR) Inhibitors Using Computational Approaches. J. Chem. Inf. Model. 2022, 62, 21, 5149–5164 
