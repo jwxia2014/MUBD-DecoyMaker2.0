@@ -44,7 +44,7 @@ https://pubs.acs.org/doi/10.1021/acs.jcim.8b00004 (MUBD-hCRs)
 
 Selected Applications of MUBD
 -----------------------------------
-1. Huo, D., Sun, Z., Wang, M., & Yan, A. (2023). Ligand and structure based hierarchical virtual screening cascade for finding novel epidermal growth factor receptor inhibitors. Chemical Biology & Drug Design, 00, 1–17. https://doi.org/10.1111/cbdd.14375
+1. Huo, D., Sun, Z., Wang, M., & Yan, A. Ligand and structure based hierarchical virtual screening cascade for finding novel epidermal growth factor receptor inhibitors. Chemical Biology & Drug Design,2023, 00, 1–17. https://doi.org/10.1111/cbdd.14375
 2. Pang, X.; Zhao, Y.; Li, G.; Liu, J.; Yan, A., SAR and QASR study on Cyclin dependent kinase 4 inhibitors using machine learning methods. Digital Discovery 2023. 	https://doi.org/10.1039/D2DD00143H
 3. Djokovic, N.; Ruzic, D.; Rahnasto-Rilla, M.; Srdic-Rajic, T.; Lahtela-Kakkonen, M.; Nikolic, K., Expanding the Accessible Chemical Space of SIRT2 Inhibitors through Exploration of Binding Pocket Dynamics. J. Chem. Inf. Model. 2022, 62 (10), 2571-2585. https://doi.org/10.1021/acs.jcim.2c00241
 2. Li, N.; Yin, L.; Chen, X.; Shang, J.; Liang, M.; Gao, L.; Qiang, G.; Xia, J.; Du, G.; Yang, X. Combination of Docking-Based and Pharmacophore-Based Virtual Screening Identifies Novel Agonists That Target the Urotensin Receptor. Molecules 2022, 27, 8692. https://doi.org/10.3390/molecules27248692
