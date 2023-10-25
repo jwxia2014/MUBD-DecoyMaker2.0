@@ -44,8 +44,9 @@ https://pubs.acs.org/doi/10.1021/acs.jcim.8b00004 (MUBD-hCRs)
 
 Selected Applications of MUBD
 -----------------------------------
-1. Pang, X.; Zhao, Y.; Li, G.; Liu, J.; Yan, A., SAR and QASR study on Cyclin dependent kinase 4 inhibitors using machine learning methods. Digital Discovery 2023. 	https://doi.org/10.1039/D2DD00143H
-1. Djokovic, N.; Ruzic, D.; Rahnasto-Rilla, M.; Srdic-Rajic, T.; Lahtela-Kakkonen, M.; Nikolic, K., Expanding the Accessible Chemical Space of SIRT2 Inhibitors through Exploration of Binding Pocket Dynamics. J. Chem. Inf. Model. 2022, 62 (10), 2571-2585. https://doi.org/10.1021/acs.jcim.2c00241
+1. Huo, D., Sun, Z., Wang, M., & Yan, A. (2023). Ligand and structure based hierarchical virtual screening cascade for finding novel epidermal growth factor receptor inhibitors. Chemical Biology & Drug Design, 00, 1–17. https://doi.org/10.1111/cbdd.14375
+2. Pang, X.; Zhao, Y.; Li, G.; Liu, J.; Yan, A., SAR and QASR study on Cyclin dependent kinase 4 inhibitors using machine learning methods. Digital Discovery 2023. 	https://doi.org/10.1039/D2DD00143H
+3. Djokovic, N.; Ruzic, D.; Rahnasto-Rilla, M.; Srdic-Rajic, T.; Lahtela-Kakkonen, M.; Nikolic, K., Expanding the Accessible Chemical Space of SIRT2 Inhibitors through Exploration of Binding Pocket Dynamics. J. Chem. Inf. Model. 2022, 62 (10), 2571-2585. https://doi.org/10.1021/acs.jcim.2c00241
 2. Li, N.; Yin, L.; Chen, X.; Shang, J.; Liang, M.; Gao, L.; Qiang, G.; Xia, J.; Du, G.; Yang, X. Combination of Docking-Based and Pharmacophore-Based Virtual Screening Identifies Novel Agonists That Target the Urotensin Receptor. Molecules 2022, 27, 8692. https://doi.org/10.3390/molecules27248692
 3. Dou, X.; Sun, X.; Huang, H.; Jiang, L.; Jin, Z.; Liu, Y.; Zou, Y.; Li, Z.; Zhu, G.; Jin, H.; Jiao, N.; Zhang, L.; Liu, Z.; Zhang, L., Discovery of novel ataxia telangiectasia mutated (ATM) kinase modulators: Computational simulation, biological evaluation and cancer combinational chemotherapy study. Eur. J. Med. Chem. 2022, 114196. https://doi.org/10.1016/j.ejmech.2022.114196
 4.	Huo, D.; Wang, S.; Kong, Y.; Qin, Z.; Yan, A., Discovery of Novel Epidermal Growth Factor Receptor (EGFR) Inhibitors Using Computational Approaches. J. Chem. Inf. Model. 2022, 62, 21, 5149–5164 
@@ -80,7 +81,7 @@ https://doi.org/10.1021/acs.jcim.8b00309
 https://doi.org/10.1016/j.bmcl.2017.11.036
 18.	Huang, Yx., Zhao, J., Song, Qh. et al. Virtual screening and experimental validation of novel histone deacetylase inhibitors. BMC Pharmacol Toxicol 17, 32 (2016).
 https://doi.org/10.1186/s40360-016-0075-8
-19.	Pei, F., Jin, H., Zhou, X., Xia, J., Sun, L., Liu, Z. and Zhang, L. (2015), Enrichment Assessment of Multiple Virtual Screening Strategies for Toll-Like Receptor 8 Agonists Based on a Maximal Unbiased Benchmarking Data Set. Chem Biol Drug Des, 86: 1226-1241.
+19.	Pei, F., Jin, H., Zhou, X., Xia, J., Sun, L., Liu, Z. and Zhang, L. , Enrichment Assessment of Multiple Virtual Screening Strategies for Toll-Like Receptor 8 Agonists Based on a Maximal Unbiased Benchmarking Data Set. Chem Biol Drug Des, 2015, 86: 1226-1241.
 https://doi.org/10.1111/cbdd.12590
 
 Contact
