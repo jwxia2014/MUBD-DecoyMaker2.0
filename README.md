@@ -44,7 +44,7 @@ https://pubs.acs.org/doi/10.1021/acs.jcim.8b00004 (MUBD-hCRs)
 
 Selected Applications of MUBD methodology
 -----------------------------------
-1.Dou X, Huo T, Liu Y, Pang Z, Su L, Zhao X, et al. Discovery of novel and selective farnesoid X receptor antagonists through structure-based virtual screening, preliminary structure-activity relationship study, and biological evaluation. European Journal of Medicinal Chemistry 2024;269:116323, https://doi.org/10.1016/j.ejmech.2024.116323.
+1. Dou X, Huo T, Liu Y, Pang Z, Su L, Zhao X, et al. Discovery of novel and selective farnesoid X receptor antagonists through structure-based virtual screening, preliminary structure-activity relationship study, and biological evaluation. European Journal of Medicinal Chemistry 2024;269:116323, https://doi.org/10.1016/j.ejmech.2024.116323.
 2. Shen, Wf., Tang, Hw., Li, Jb. et al. Multimodal data fusion for supervised learning-based identification of USP7 inhibitors: a systematic comparison. J Cheminform, 2023, 15, 5. https://doi.org/10.1186/s13321-022-00675-8
 3. Huo, D., Sun, Z., Wang, M., & Yan, A. Ligand and structure based hierarchical virtual screening cascade for finding novel epidermal growth factor receptor inhibitors. Chemical Biology & Drug Design,2023, 00, 1–17. https://doi.org/10.1111/cbdd.14375
 4. Pang, X.; Zhao, Y.; Li, G.; Liu, J.; Yan, A., SAR and QASR study on Cyclin dependent kinase 4 inhibitors using machine learning methods. Digital Discovery 2023. 	https://doi.org/10.1039/D2DD00143H
